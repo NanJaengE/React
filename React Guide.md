@@ -6,7 +6,7 @@ App.js 내부에 컴포넌트 생성
 
 props 상위 컴포넌트에서 하위 컴포넌트로 정보 전달
 
-{this.props.변수} 
+{this.props.변수}  
 
 
 
