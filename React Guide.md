@@ -10,7 +10,7 @@ props 상위 컴포넌트에서 하위 컴포넌트로 정보 전달
 
 
 
-컴포넌트를 파일로 만들면   
+컴포넌트를 파일로 만들면    
 
 ```
 import React, { Component } from 'react';
